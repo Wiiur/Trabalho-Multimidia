@@ -212,20 +212,26 @@ section#equipe div#container-equipe{
     width: 150px;
     height: 140px;
     margin: auto;
-    background: bisque url('img');
+    background: bisque url('img/wiu.jpg');
+    background-size: 200px;
+    background-repeat: no-repeat;
     border-radius: 100px;
 }
 #equipe div#img-e02{
     width: 150px;
     height: 140px;
-    background-color: bisque;
+    background: bisque url('img/ped.jpg');
+    background-size: 150px;
+    background-repeat: no-repeat;
     border-radius: 100px;
     margin: auto;
 }
 #equipe div#img-e03{
     width: 150px;
     height: 140px;
-    background-color: bisque;
+    background: bisque url('img/gui.jpg');
+    background-size: 150px;
+    background-repeat: no-repeat;
     border-radius: 100px;
     margin: auto;
 }
